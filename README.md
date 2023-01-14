@@ -1,4 +1,5 @@
 Hi, im XtremeTHN and i like to write scripts in python xd
+And i speak spanish
 
 <!---
 XtremeTHN/XtremeTHN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
